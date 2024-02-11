@@ -18,4 +18,4 @@ The architecture culminates in a Dense layer with a single neuron and a sigmoid 
 
 
 ## Model Accuracy Metrics: 
-tbd
+Binary cross entropy loss was used as the main accuracy metric for training and testing of the model. For further analysis, a basic simulation of events based on the trained model's output probabilities was compared to the actual events, giving a more directly interpretable accuracy score.
