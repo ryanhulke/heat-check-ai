@@ -1,6 +1,0 @@
-
-if s.x_pos > 47
-    for each player:
-        s.x_pos = 94 - x_pos
-        s.y_pos = 50 - s.y_pos
-        
